@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Lokeshnp
 - I have 4.5 years of experience in software testing
 - 👀 I’m interested in UI and API Automation
-- 🌱 I have designed Keyword Driven Framework
-- I have designed Hybrid Framework(POM+Data Driven)
+- 🌱 I have designed Hybrid Framework(POM+Data Driven)
 - I have designed TDD & BDD Frameworks
 - I have automated REST API using RestAssured tool
 - I have experience in TestNG, Cucumber, Gauge Frameworks 
