@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lokeshnp
+- 👋 Hi, I’m Lokesh M
 - I have 4.5 years of experience in software testing
 - 👀 I’m interested in UI and API Automation
 - 🌱 I have designed Hybrid Framework(POM+Data Driven)
