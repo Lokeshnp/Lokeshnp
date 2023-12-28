@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Lokesh M
-- I have 5+ years of experience in automation testing
+- I have 6.5+ years of experience in automation testing
 - 👀 I’m interested in UI and API Automation
 - 🌱 I have designed Hybrid Framework(POM+Data Driven)
 - I have designed TDD & BDD Frameworks
-- I have automated REST API using RestAssured tool
+- I have automated REST API using the RestAssured tool
 - I have experience in TestNG, Cucumber, Gauge Frameworks 
-- I have experience in Desktop application, Angular JS application automation.
+- I have experience in Desktop applications, and Angular JS application automation.
 
 
 <!---
